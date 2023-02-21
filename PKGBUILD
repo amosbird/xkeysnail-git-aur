@@ -14,7 +14,7 @@ makedepends=('python-setuptools'
              'git')
 provides=('xkeysnail')
 conflicts=('xkeysnail')
-source=("git://github.com/amosbird/xkeysnail.git")
+source=("git+https://github.com/amosbird/xkeysnail.git")
 md5sums=("SKIP")
 _gitname="xkeysnail"
 
